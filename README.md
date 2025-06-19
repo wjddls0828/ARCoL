@@ -11,7 +11,7 @@ The backbone model of ARCoL is SASRec, and we built our implementation using the
 
 ## Datasets
 We use 2 datasets in our work: Books and Movies from Amazon
-You can download the dataset [here](https://www.naver.com/). 
+You can download the dataset [here](https://drive.google.com/drive/folders/1Qxfj31xIyVORhuhmKj72n5DZXwuaneUm?usp=drive_link). 
 
 
 ## Running the code
