@@ -1,0 +1,1 @@
+python main.py --dataset=20core_Movies_and_TV --train_dir=default --maxlen=200 --dropout_rate=0.3 --device=cuda --llm_weight=0.5 --cl_weight=0.01
